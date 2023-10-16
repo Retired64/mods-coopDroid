@@ -5,20 +5,6 @@
 
 Agradecemos a las siguientes personas por sus contribuciones al proyecto:
 
-- [Peachypeach 1](#) - OMM REBIRTH MOD
+- [Peachypeach 1](https://github.com/PeachyPeachSM64/sm64ex-omm) - OMM REBIRTH MOD
 - [Nombre del Contribuyente 2](#) - Descripción de las contribuciones.
 - [Nombre del Contribuyente 3](#) - Descripción de las contribuciones.
-
-## Cómo Contribuir
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. **Paso 1**: Hacer un fork del proyecto.
-2. **Paso 2**: Clonar tu fork a tu máquina local.
-3. **Paso 3**: Crea una rama para tus contribuciones (`git checkout -b feature/ContribucionNombre`).
-4. **Paso 4**: Realiza tus contribuciones.
-5. **Paso 5**: Confirma tus cambios (`git commit -m 'Añadir nueva característica'`).
-6. **Paso 6**: Empuja tus cambios a tu repositorio en GitHub (`git push origin feature/ContribucionNombre`).
-7. **Paso 7**: Abre un Pull Request a este repositorio.
-
-## Licencia
