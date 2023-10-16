@@ -5,6 +5,6 @@
 
 Agradecemos a las siguientes personas por sus contribuciones al proyecto:
 
-- [Peachypeach 1](https://github.com/PeachyPeachSM64/sm64ex-omm) - OMM REBIRTH MOD
-- [Nombre del Contribuyente 2](#) - Descripción de las contribuciones.
+- [Peachypeach](https://github.com/PeachyPeachSM64/sm64ex-omm) - OMM REBIRTH MOD
+- [DizzyThermal](https://github.com/DizzyThermal/sm64ex-coop-only-up-64-) ONLY UP 64 PACK
 - [Nombre del Contribuyente 3](#) - Descripción de las contribuciones.
